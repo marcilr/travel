@@ -1,0 +1,30 @@
+eiffel-tower.txt
+Created Tue Jul  2 06:55:44 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+View of the Eiffel Tower from below, Paris, France
+It may be hard to imagine it from this angle, but the Eiffel Tower
+was built so that it would be relatively easy to take down.  Constructed
+as a temporary display for the 1889 World’s Fair, the wrought iron
+latticework alone weighs some 7,300 tons.  In total, more than 18,000
+components were joined together with 2.5 million rivets to build what
+was then the tallest manmade structure on Earth. Yet engineer Gustave
+Eiffel’s permit called for the tower to be disassembled after only two
+decades.
+
+While the Eiffel Tower garnered some harsh criticism after its
+construction, the Parisian public and local planning officials warmed
+to the structure.  It stands today as perhaps the City of Light's most
+beloved symbol.
+
+--View of the Eiffel Tower from below, Paris, France
+  https://www.bing.com/search?q=Eiffel+Tower%2C+Paris%2C+France&filters=IsConversation%3a%22True%22+BTEPKey:%22Encyclo_WL_EiffelTowerParis%22&FORM=EMSDS0
+
+
+
+Links
+=====
+View of the Eiffel Tower from below, Paris, France
+https://www.bing.com/search?q=Eiffel+Tower%2C+Paris%2C+France&filters=IsConversation%3a%22True%22+BTEPKey:%22Encyclo_WL_EiffelTowerParis%22&FORM=EMSDS0
+
