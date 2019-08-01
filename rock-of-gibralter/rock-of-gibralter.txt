@@ -4,8 +4,20 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 
-A state-of-the-art lookout on the Rock of Gibraltar
+Rock of Gibraltar
+=================
+The Rock of Gibraltar, also known as the Rock, is a monolithic limestone
+promontory located in the British overseas territory of Gibraltar, near
+the southwestern tip of Europe on the Iberian Peninsula.[3] It is 426 m
+(1,398 ft) high.  Most of the Rock's upper area is covered by a nature
+reserve, which is home to around 300 Barbary macaques.  These macaques,
+as well as a labyrinthine network of tunnels, attract a large number of
+tourists each year. 
+--en.wikipedia.org/wiki/Rock_of_Gibraltar
 
+
+A state-of-the-art lookout on the Rock of Gibraltar
+===================================================
 Make your way up the trails of this monolithic rock promontory to the Skywalk,
 an 8,000-square-foot glass platform that soars more than 1,100 feet above sea
 level.  On a clear day, you can see three countries and two continents from
@@ -34,3 +46,6 @@ Today on Bing
 July 23, 2019
 https://www.bing.com/search?q=rock+of+gibraltar&filters=BTEPKey%3a%22Encyclo_HPBS_20190723_0700%22+IsConversation%3a%22true%22+carouselSID%3a%22ABT90C95C232DD89149D5B218FF54958E353E2E0747D464E35A7329C7767B494534-sid%22+catguid%3a%22Orion0A4A29329E6DC2BEA86E8779515FA616%22+segment%3a%22generic.carousel%22+secq%3a%22huangshan+mountains+china%22+supwlcar%3a%220%22+segtype%3a%22VHJpdmlh%22+ctype%3a%220%22+mltype%3a%220%22+eltypedim1%3a%22Trivia%22&FORM=BTCAR1&crslsl=0
 
+Rock of Gibraltar
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Rock_of_Gibraltar
