@@ -1,0 +1,59 @@
+travel.txt
+Created Fri 10 Jul 2020 05:29:48 PM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Anchorage to Kenai details:
+
+
+Departure
+ANC
+Anchorage (AK)
+05:45, 21 Jul (Tue)
+
+ENA 
+Kenai (AK)
+06:20, 21 Jul (Tue)
+
+------------------------
+
+Return
+Kenai (AK)
+12:55, 23 Jul (Thu)
+
+ANC
+Anchorage (AK)
+13:30, 23 Jul (Thu)
+
+
+Total trip duration
+ 00h 35min
+
+
+Price details
+Passengers	                        US$ 200.00
+Taxes and fees	                        US$ 35.78
+Travel insurance	                US$ 15.15
+All Risk Trip cancellation insurance	US$ 23.58
+Baggage insurance	                US$ 7.58
+Total price	                        US$ 282.09
+
+
+Order Number: 83244468 (eSky.com)
+Order number
+Needed when contacting eSky
+
+Your flight from Anchorage (AK) to Kenai (AK) is booked!
+Booking numbers: 7510346 (flight), 
+3600572511 (insurance), 
+4509100887 (insurance), 
+3600572510 (insurance)
+Booking status: Booked. No need to call to confirm!
+Confirmation has been sent to marcilr@gmail.com
+
+
+Ted Stevens
+20.07 - 21.07
+
+Kenai Municipal Airport
+22.07 - 23.07
