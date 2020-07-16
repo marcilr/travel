@@ -6,6 +6,56 @@ Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 Anchorage to Kenai details:
 
 
+
+Thu 16 Jul 2020 10:52:18 AM AKDT
+================================
+o Called grant aviation reservation office:
+(888)359-4726
+
+o Need to update from
+
+Depart: ANC Anchorage (AK) 05:45, 21 Jul (Tue)
+Return: ENA Kenai (AK) 06:20, 21 Jul (Tue)
+
+To one way from Anchorage to Kenai
+departing the night of 21 Jul (Tue).
+
+Grant order number: 83244468
+Passengers:         $200.00
+Taxes and fees:      $35.78
+Travel insurance:    $15.15
+     ----------------------
+     Total:         $250.93
+     Total:         $235.78 <=== from gmail invoice
+
+Confirmation number: 7510346 (from gmail)
+Travel insurance
+  Insurance certificate number: 3600572511
+
+Trip cancellation insurance
+  Insurance certificate number: 4509100887
+
+Baggage insurance
+  Insurance certificate number: 3600572510
+
+Tue, Jul 21
+Anchorage to Kenai
+Grant Aviation 505 · 5:45 AM – 6:20 AM
+
+Thu, Jul 23
+Kenai to Anchorage
+Grant Aviation 612 · 12:55 PM – 1:30 PM
+
+
+Anchorage - All Airports (ANCH)
+Kenai (AK), Kenai Municipal Airport
+Departure date: 2020-07-21 (Tue)
+Return date:    2020-07-23 (Thu)
+
+
+
+Fri 10 Jul 2020 05:29:48 PM AKDT
+================================
 Departure
 ANC
 Anchorage (AK)
